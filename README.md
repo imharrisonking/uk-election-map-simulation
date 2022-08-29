@@ -1,6 +1,6 @@
 # Simulating the UK London council election results - 5th May 2022
 
-### [Live Demo: Interactive Results Map](https://uk-election-map-simulation.netlify.app/){:target="_blank"}
+### [Live Demo: Interactive Results Map](https://uk-election-map-simulation.netlify.app/)
 
 ### Project Description
 Simulating the 2022 UK local council elections using geopandas and folium, deplyoing the final interative map to Netlify.
